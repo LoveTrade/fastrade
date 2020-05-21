@@ -1,9 +1,9 @@
-fastrade
+Fastrade
 ======================
 
 :star: Star us on GitHub 
 
-fastrade is a trading system written in python with GUI extension in PYQT. 
+[fastrade](https://github.com/AronWater/fastrade/) is a trading system written in python with GUI extension in PYQT. 
 
 ## Slack
 Join the discussion and exchange opinions!  [Slack](https://join.slack.com/t/fastrade/shared_invite/zt-eldmclmc-Jf~lo2kf~6q6eacR93n2ag)
@@ -16,12 +16,15 @@ Combining those to form a system that could effectively retrieve market informat
 ## functionality 
 Proposed accepted API:
 
-* yahoo-finance          (We popular know already) 
-* Interactive Broker     (The REST API needs a pro subscription)
-* alpha vantage          (providing free but limited usage per day)
-* futu                   (pretty comprehensive api but without US market information)
-* td-ameritrade          (the documentation is not very well-written)
-* alpaca                 (simple)
+
+| Name | Description |
+| --- | --- |
+| [yahoo-finance](https://finance.yahoo.com/quotes/API,Documentation/view/v1)   |    You should know already |
+| [Interactive Broker](http://interactivebrokers.github.io/tws-api/)  |   The REST API needs a pro subscription|
+| [alpha vantage](https://www.alphavantage.co/)    |      providing free but limited usage per day|
+| [futu](https://futunnopen.github.io/futu-api-doc/intro/intro.html)     |         pretty comprehensive api but without US market information|
+|[td-ameritrade](https://developer.tdameritrade.com/apis)    | the documentation is not very well-written|
+|[alpaca](https://alpaca.markets/)      |   simple|
 
 
 
