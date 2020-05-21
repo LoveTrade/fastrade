@@ -5,8 +5,11 @@ fastrade
 
 fastrade is a trading system written in python with GUI extension in PYQT. 
 
+## Slack
+Join the discussion and exchange opinions!  [Slack](https://join.slack.com/t/fastrade/shared_invite/zt-eldmclmc-Jf~lo2kf~6q6eacR93n2ag)
 
-## purpose 
+
+## Purpose 
 Comparing the functionality and difference between the apis provided by the popular trading exchange.
 Combining those to form a system that could effectively retrieve market information from all of the working apis. 
 
@@ -24,6 +27,12 @@ Proposed accepted API:
 
 ## installation
 have python 3.5 or above installed
+
+
+## Reference
+* freqtrade 
+
+
 
 ## To do list
 * all the above
