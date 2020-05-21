@@ -10,8 +10,8 @@ Join the discussion and exchange opinions!  [Slack](https://join.slack.com/t/fas
 
 
 ## Purpose 
-Comparing the functionality and difference between the apis provided by the popular trading exchange.
-Combining those to form a system that could effectively retrieve market information from all of the working apis. 
+- Comparing the functionality and difference between the apis provided by the popular trading exchange.
+- Combining those to form a system that could effectively retrieve market information from all of the working apis. 
 
 ## functionality 
 Proposed accepted API:
