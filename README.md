@@ -1,13 +1,15 @@
-Fastrade
+Fastrade         
 ======================
 
 :star: Star us on GitHub 
 
-[fastrade](https://github.com/AronWater/fastrade/) is a trading system written in python with GUI extension in PYQT. 
+[Fastrade](https://github.com/AronWater/fastrade/) is a trading system written in python with GUI extension in PYQT. 
+
+從零開始寫起的python證據交易和可視化系統
 
 ## Slack
 Join the discussion and exchange opinions!  [Slack](https://join.slack.com/t/fastrade/shared_invite/zt-eldmclmc-Jf~lo2kf~6q6eacR93n2ag)
-
+如果有興趣 歡迎加入slack討論
 
 ## Purpose 
 - Comparing the functionality and difference between the apis provided by the popular trading exchange.
