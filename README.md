@@ -44,8 +44,8 @@ have python 3.5 or above installed
 
 
 ## Reference
-* freqtrade 
-
+* [freqtrade](https://github.com/freqtrade/freqtrade) 
+* [vnpy](https://github.com/vnpy/vnpy)
 
 
 ## To do list
