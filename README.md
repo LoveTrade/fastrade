@@ -47,7 +47,7 @@ have python 3.5 or above installed
 * [freqtrade](https://github.com/freqtrade/freqtrade) 
 * [vnpy](https://github.com/vnpy/vnpy)
 * [backtrader](https://github.com/mementum/backtrader)
-
+* [backtesting.py](https://github.com/kernc/backtesting.py)
 
 ## To do list
 * all the above
