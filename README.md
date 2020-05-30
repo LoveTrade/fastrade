@@ -48,6 +48,7 @@ have python 3.5 or above installed
 * [vnpy](https://github.com/vnpy/vnpy)
 * [backtrader](https://github.com/mementum/backtrader)
 * [backtesting.py](https://github.com/kernc/backtesting.py)
+* [High-Frequency-Trading-Model-with-IB](https://github.com/jamesmawm/High-Frequency-Trading-Model-with-IB)
 
 ## To do list
 * all the above
