@@ -1,7 +1,7 @@
 Table of Content 
 ======================
 - [Fastrade](#fastrade)
-  * [Communication (Join us)](#communication--join-us-)
+  * [Communication_Join_us](#communication-join-us)
   * [Purpose](#purpose)
   * [functionality](#functionality)
   * [installation](#installation)
@@ -18,7 +18,7 @@ Fastrade
 
 從零開始寫起的python證據交易和可視化系統
 
-## Communication (Join us)
+## Communication_Join_us
 
 
 | :memo:        |  [Slack](https://join.slack.com/t/fastrade/shared_invite/zt-eldmclmc-Jf~lo2kf~6q6eacR93n2ag)      |
