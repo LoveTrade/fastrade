@@ -36,7 +36,7 @@ Fastrade
 - Combining those to form a system that could effectively retrieve market information from all of the working apis. 
 
 ## functionality 
-Proposed accepted API:
+Proposed accepted API (securities):
 
 
 | Name | Description |
@@ -48,6 +48,14 @@ Proposed accepted API:
 |[td-ameritrade](https://developer.tdameritrade.com/apis)    | the documentation is not very well-written|
 |[alpaca](https://alpaca.markets/)      |   simple|
 
+Proposed accepted API (crytocurrency):
+
+| Name | Description |
+| --- | --- |
+| [bitmex](https://www.bitmex.com/app/apiOverview)   |  placeholder   |
+| [binance](https://binance-docs.github.io/apidocs/spot/en/#change-log/)  |   placeholder|
+| [huobi](https://huobiapi.github.io/docs/spot/v1/en/#change-log)    |     placeholder|
+| [bitstamp](https://www.bitstamp.net/api/)     |    placeholder|
 
 
 ## installation
